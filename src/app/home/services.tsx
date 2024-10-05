@@ -20,7 +20,7 @@ const Services = () => (
         <div className="card">
           <h3 className="service-title">Technical Consulting</h3>
           <p className="service-description">
-            Need advice on a tech issue? I'm here to provide guidance and possible solutions.
+            Need advice on a tech issue? I&apos;m here to provide guidance and possible solutions.
           </p>
         </div>
         {/* <div className="card">

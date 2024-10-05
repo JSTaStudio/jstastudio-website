@@ -10,7 +10,7 @@ export default function Hero() {
             My Name is Sai Teja
           </p>
           <p className="subtitle">
-            I've been building mobile and web applications for over a decade.
+            I&apos;ve been building mobile and web applications for over a decade.
           </p>
           {/* <a href="#contact" className="cta-button">Get in Touch</a> */}
         </div>

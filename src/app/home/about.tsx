@@ -6,8 +6,8 @@ export default function About() {
     <section className="about">
       <div className="container">
         <h2 className="about-title">A Bit About Me</h2>
-        <p className="about-description">
-          I'm all about turning your ideas into amazing mobile apps and websites. With over ten years of experience, I bring a lot of passion and expertise to the table, helping businesses like yours create awesome digital products.
+        <p className="subtitle">
+          I&apos;ve been building mobile and web applications for over a decade.
         </p>
       </div>
       <style jsx>{`

@@ -30,7 +30,7 @@ export default function ContactForm() {
     <section className="contact" id="contact">
       <div className="container">
         <h2>Contact Us</h2>
-        <p>Ready to start your project? Let's connect!</p>
+        <p>Ready to start your project? Let&apos;s connect!</p>
         <form onSubmit={handleSubmit}>
           <input
             type="text"

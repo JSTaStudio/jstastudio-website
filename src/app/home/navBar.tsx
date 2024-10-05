@@ -1,6 +1,6 @@
 "use client";
 
-import Link from 'next/link';
+// import Link from 'next/link';
 
 const NavBar = () => (
   <nav className="navbar">
@@ -11,7 +11,7 @@ const NavBar = () => (
       <ul className="nav-links">
         <li><a href="#services">Services</a></li>
         <li><a href="#about">About</a></li>
-        <li><a href="#contact">Contact</a></li>
+        {/* <li><a href="#contact">Contact</a></li> */}
       </ul>
     </div>
     <style jsx>{`

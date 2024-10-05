@@ -5,7 +5,7 @@ import NavBar from './home/navBar';
 import Hero from './home/hero';
 import Services from './home/services';
 import About from './home/about';
-import ContactForm from './home/contactForm';
+// import ContactForm from './home/contactForm';
 
 export default function Home() {
   return (
